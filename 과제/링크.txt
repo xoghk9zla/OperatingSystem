@@ -8,4 +8,6 @@ http://egloos.zum.com/barrioskmc/v/1797590
 
 http://cesl.tistory.com/entry/Linux-CFS-스케줄링-알고리즘-정리
 
-https://medium.com/@seoyoochan/linux-cfs-알고리즘-e25a7ee5d9a0
+https://medium.com/@seoyoochan/linux-cfs-알고리즘-e25a7ee5d9a0http://blog.naver.com/PostView.nhn?blogId=redcultuer&logNo=130109802510&categoryNo=23&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search
+
+http://samchonlab.kr/221335479445
